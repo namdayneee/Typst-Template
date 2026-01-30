@@ -46,8 +46,8 @@ typst compile main.typ
 
 Hiện tại Typst Universe chưa có mẫu chính thức cho HCMUT. Bạn có thể:
 
-1. **Tự tạo mẫu** dựa trên `basic-report` và tùy chỉnh theo quy định của trường
-2. **Sử dụng mẫu cộng đồng** (nếu có) trên GitHub với từ khóa "typst hcmut" hoặc "typst bku"
+1. **Sử dụng mẫu cộng đồng**: [Template-Typst-HCMUT](https://github.com/namdayneee/Template-Typst-HCMUT) - Mẫu báo cáo Typst dành cho sinh viên HCMUT
+2. **Tự tạo mẫu** dựa trên `basic-report` và tùy chỉnh theo quy định của trường
 
 **Gợi ý cấu trúc báo cáo HCMUT:**
 - Trang bìa với logo trường Bách khoa
