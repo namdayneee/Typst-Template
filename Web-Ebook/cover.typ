@@ -68,7 +68,7 @@
       #[
         #set text(size: 14pt)
         #set align(center)
-        Hướng dẫn toàn diện về lập trình web từ cơ bản đến nâng cao
+        Giải thích các khái niệm về Lập Trình Web từ cơ bản đến nâng cao
       ]
       
       #v(0.5cm)
